@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ## My Github Stats:
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MOHAMMAD-NAYAN&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Mohammad Nayan GitHub status" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MOHAMMAD-NAYAN&show_icons=true&include_all_commits=true&theme=radical&hide_border=false" alt="Mohammad Nayan GitHub status" />
 </p>
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MOHAMMAD-NAYAN&theme=algolia" alt="MOHAMMAD-NAYAN" />
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 ### StarDev Ranking
 
-[![Check out MOHAMMAD-NAYAN's profile on stardev.io](https://stardev.io/developers/MOHAMMAD-NAYAN/badge/languages/global.svg)](https://stardev.io/developers/MOHAMMAD-NAYAN)
+<a href="https://stardev.io/developers/MOHAMMAD-NAYAN"><img alt="Check out MOHAMMAD-NAYAN&apos;s profile on stardev.io" src="https://stardev.io/developers/MOHAMMAD-NAYAN/badge/languages/global.svg" /></a>
 
 ---
 
